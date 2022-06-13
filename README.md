@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NoteTheme
 
 This theme is folked from [Matjek theme](https://shawnteoh.github.io/matjek/) which is based on [materializecss](https://materializecss.com/) framework.
@@ -35,3 +36,7 @@ I have modified a lot from Matjek so that we have this theme for **the only purp
 ## Contact & support
 
 Email me at: [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com)
+=======
+# Hello world
+[Profile](https://sites.google.com/site/tramngoup13/home)
+>>>>>>> accef19caaf6980a3c2af985e068602e3ebf9d99
