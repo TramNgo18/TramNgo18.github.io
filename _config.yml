@@ -5,8 +5,8 @@ url: ""
 repository: tramngo/notetheme
 paginate: 28
 
-banner: "/assets/res/banner.png" # site banner (load when someone share your page url)
-favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page)
+banner: "" # site banner (load when someone share your page url)
+favicon: "" # site's favicon (icon left side of your page)
 
 # MatJek specific configurations
 user: 
