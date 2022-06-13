@@ -1,5 +1,5 @@
-title: Ngo Thi Bao Tram
-description: Postdoctoral fellow
+title: "Ngo Thi Bao Tram"
+description: "Postdoctoral fellow"
 baseurl: "/notetheme"
 url: ""
 repository: tramngo/notetheme
@@ -10,11 +10,11 @@ favicon: "" # site's favicon (icon left side of your page)
 
 # MatJek specific configurations
 user: 
-  name: "Math2IT"
-  email: "dinhanhthimail@gmail.com"
-  website: "math2it.com"
+  name: "Tram Ngo"
+  email: ""
+  website: ""
   avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  github: ""
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
