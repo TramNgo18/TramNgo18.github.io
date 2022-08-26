@@ -5,15 +5,15 @@ url: ""
 repository: TramNgo18/TramNgo18.github.io
 paginate: 28
 
-banner: "/assets/IMG_4951.JPG" # site banner (load when someone share your page url)
-favicon: "/assets/IMG_4951.JPG" # site's favicon (icon left side of your page)
+banner: "/assets/avatar.JPG" # site banner (load when someone share your page url)
+favicon: "/assets/avatar.JPG" # site's favicon (icon left side of your page)
 
 # MatJek specific configurations
 user:
   name: "Trâm Ngô"
   email: ""
   website: ""
-  avatar: "/assets/IMG_4951.JPG"
+  avatar: "/assets/avatar.JPG"
   github: ""
 google_tracking_id: ""
 google_site_verification: ""
